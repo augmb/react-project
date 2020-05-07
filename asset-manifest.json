@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-trial-searchField/static/css/main.90bf096f.chunk.css",
-    "main.js": "/React-trial-searchField/static/js/main.9e5b1203.chunk.js",
-    "main.js.map": "/React-trial-searchField/static/js/main.9e5b1203.chunk.js.map",
-    "runtime-main.js": "/React-trial-searchField/static/js/runtime-main.329184f5.js",
-    "runtime-main.js.map": "/React-trial-searchField/static/js/runtime-main.329184f5.js.map",
-    "static/js/2.668f8c51.chunk.js": "/React-trial-searchField/static/js/2.668f8c51.chunk.js",
-    "static/js/2.668f8c51.chunk.js.map": "/React-trial-searchField/static/js/2.668f8c51.chunk.js.map",
-    "index.html": "/React-trial-searchField/index.html",
-    "precache-manifest.98b0b6419f3b37ca47723a40538dca85.js": "/React-trial-searchField/precache-manifest.98b0b6419f3b37ca47723a40538dca85.js",
-    "service-worker.js": "/React-trial-searchField/service-worker.js",
-    "static/css/main.90bf096f.chunk.css.map": "/React-trial-searchField/static/css/main.90bf096f.chunk.css.map",
-    "static/js/2.668f8c51.chunk.js.LICENSE.txt": "/React-trial-searchField/static/js/2.668f8c51.chunk.js.LICENSE.txt"
+    "main.css": "/react-project/static/css/main.90bf096f.chunk.css",
+    "main.js": "/react-project/static/js/main.2d483734.chunk.js",
+    "main.js.map": "/react-project/static/js/main.2d483734.chunk.js.map",
+    "runtime-main.js": "/react-project/static/js/runtime-main.09595656.js",
+    "runtime-main.js.map": "/react-project/static/js/runtime-main.09595656.js.map",
+    "static/js/2.668f8c51.chunk.js": "/react-project/static/js/2.668f8c51.chunk.js",
+    "static/js/2.668f8c51.chunk.js.map": "/react-project/static/js/2.668f8c51.chunk.js.map",
+    "index.html": "/react-project/index.html",
+    "precache-manifest.15b5dc5be2cad4ce0f3fef7d117a84a6.js": "/react-project/precache-manifest.15b5dc5be2cad4ce0f3fef7d117a84a6.js",
+    "service-worker.js": "/react-project/service-worker.js",
+    "static/css/main.90bf096f.chunk.css.map": "/react-project/static/css/main.90bf096f.chunk.css.map",
+    "static/js/2.668f8c51.chunk.js.LICENSE.txt": "/react-project/static/js/2.668f8c51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.329184f5.js",
+    "static/js/runtime-main.09595656.js",
     "static/js/2.668f8c51.chunk.js",
     "static/css/main.90bf096f.chunk.css",
-    "static/js/main.9e5b1203.chunk.js"
+    "static/js/main.2d483734.chunk.js"
   ]
 }
